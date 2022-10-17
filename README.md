@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm David Omokhodion</h1>
-<h3 align="center">A Cloud DevOps Engineer with a background in blockchain development</h3>
+<h3 align="center">A Cloud DevOps Engineer with a background in Blockchain development</h3>
 
 - 🔭 I’m currently working on an **LMS with the Absoforce Solutions team.**
-
 - 🌱 I’m currently learning **deeper cloud concepts with AltSchool**
-
 - 📝 I regularly write articles on [https://nobleman.hashnode.dev/](https://nobleman.hashnode.dev/)
-
 - 💬 Ask me about **DevOps practices and tools, Cloud, and Blockchain**
-
 - 📫 Reach me via email at: **davidomokhodion097@gmail.com**
-
 - 📄 Know about my experiences [https://bit.ly/3V74RjT](https://bit.ly/3V74RjT)
 
 <h3 align="left">Connect with me:</h3>
