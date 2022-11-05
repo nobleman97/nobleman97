@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an **LMS with the Absoforce Solutions team.**
 - 🌱 I’m currently learning **deeper cloud concepts with AltSchool**
-- 📝 I regularly write articles on [https://nobleman.hashnode.dev/](https://dev.to/nobleman97)
+- 📝 I regularly write articles on [https://dev.to/nobleman97](https://dev.to/nobleman97)
 - 💬 Ask me about **DevOps practices and tools, Cloud, and Blockchain**
 - 📫 Reach me via email at: **davidomokhodion097@gmail.com**
 - 📄 Know about my experiences [https://bit.ly/3V74RjT](https://bit.ly/3V74RjT)
